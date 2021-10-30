@@ -31,13 +31,13 @@ body{
 
 #logo, #navigation{
     line-height: 60px;
+    letter-spacing: 3px;
 }
 
 #navigation li{
     float: left;
     list-style-type: none;
     margin-right: 20px;
-    letter-spacing: 3px;
 }
 
 #navigation a{
@@ -78,6 +78,7 @@ body{
     font-family: lora, serif;
     width: 400;
     font-size: 300%;
+    letter-spacing: 3px;
     margin-right: 19px; 
     color: grey;
 }
@@ -86,4 +87,19 @@ body{
     font-size: 150%;
     letter-spacing: 3px;
     padding: 20px;
+}
+
+/* Contact Us section */
+
+#contact-sec{
+    position: absolute;
+    top: 650px;
+    width: 100%;
+}
+
+.img-contact img{
+    height: 500px;
+    width: 50%;
+    text-align: center;
+    float: right;
 }
