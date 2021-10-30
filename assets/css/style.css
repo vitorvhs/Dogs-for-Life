@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Lora&family=Ubuntu:wght@300&display=swap');
 
+/* initializacion */
 *{
     padding: 0;
     margin: 0;
@@ -11,3 +12,18 @@ body{
     font-weight: 300;
     color: black;
 }
+
+/* logo and nav-bar */
+
+#logo{
+    font-family:lora, serif;
+    font-weight: 400;
+    font-size: 200%;
+    float: left;
+    color:#5d5c5c;
+}
+
+
+
+
+
