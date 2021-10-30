@@ -18,12 +18,32 @@ body{
 #logo{
     font-family:lora, serif;
     font-weight: 400;
-    font-size: 200%;
+    font-size: 300%;
     float: left;
     color:#5d5c5c;
+    margin-left: 1%;
 }
 
+#navigation{
+    font-size: 90%;
+    float: right;
+}
 
+#menu, #navigation{
+    line-height: 60px;
+}
+
+#navigation li{
+    float: left;
+    list-style-type: none;
+    margin-right: 20px;
+
+}
+
+#navigation a{
+    text-decoration: none;
+    color:#5d5c5c;
+}
 
 
 
