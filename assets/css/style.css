@@ -45,6 +45,10 @@ body{
     color:#5d5c5c;
 }
 
+#navigation a:hover{
+    border-bottom: 1px solid black;
+}
+
 /* about us section */
 
 #about-sec{
@@ -79,7 +83,7 @@ body{
 }
 
 .text-about p{
-    font-size: 100%;
+    font-size: 150%;
     letter-spacing: 3px;
     padding: 20px;
 }
