@@ -18,7 +18,7 @@ body{
 #logo{
     font-family:lora, serif;
     font-weight: 400;
-    font-size: 300%;
+    font-size: 150%;
     float: left;
     color:#5d5c5c;
     margin-left: 1%;
@@ -29,7 +29,7 @@ body{
     float: right;
 }
 
-#menu, #navigation{
+#logo, #navigation{
     line-height: 60px;
 }
 
@@ -37,7 +37,7 @@ body{
     float: left;
     list-style-type: none;
     margin-right: 20px;
-
+    letter-spacing: 3px;
 }
 
 #navigation a{
@@ -49,21 +49,37 @@ body{
 
 #about-sec{
     height: 700px;
-    top: 100px;
-    position: relative;
+    top: 80px;
+    position: absolute;
     width: 100%;
 }
 
 .img-about img{
     height: 500px;
     width: 50%;
-    position: absolute;
+    position: relative;
+    float: left;
     left: 0;
 }
 
 .text-about{
     height: 500px;
     width: 50%;
-    position: absolute;
-    right: 0;
+    position: relative;
+    float: right;
+    text-align: right;
+}
+
+.text-about h1{
+    font-family: lora, serif;
+    width: 400;
+    font-size: 300%;
+    margin-right: 19px; 
+    color: grey;
+}
+
+.text-about p{
+    font-size: 100%;
+    letter-spacing: 3px;
+    padding: 20px;
 }
