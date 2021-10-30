@@ -45,5 +45,25 @@ body{
     color:#5d5c5c;
 }
 
+/* about us section */
 
+#about-sec{
+    height: 700px;
+    top: 100px;
+    position: relative;
+    width: 100%;
+}
 
+.img-about img{
+    height: 500px;
+    width: 50%;
+    position: absolute;
+    left: 0;
+}
+
+.text-about{
+    height: 500px;
+    width: 50%;
+    position: absolute;
+    right: 0;
+}
