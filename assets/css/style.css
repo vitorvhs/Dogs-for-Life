@@ -104,7 +104,33 @@ body{
     float: right;
 }
 
+form{
+    margin-top: 80px;
+}
+
 .form-contact{
     width: 50%;
     float: left;
+    text-align: center;
+    font-size: 150%;
+}
+
+form h1{
+    margin-bottom: 10px;
+}
+
+form label{
+    margin-bottom: 20px;
+}
+form input{
+    margin-bottom: 10px;
+    border: 1px solid black;
+}
+
+#SubmitButtom{
+    border-radius: 15%;
+}
+
+#SubmitButtom:hover{
+    background-color:white;
 }
