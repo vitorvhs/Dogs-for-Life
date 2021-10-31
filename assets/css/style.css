@@ -13,14 +13,17 @@ body{
     color: black;
 }
 
+h1,h2,h3{
+    font-family: lora, serif;
+    width: 400;
+    color:#5d5c5c;
+}
+
 /* logo and nav-bar */
 
 #logo{
-    font-family:lora, serif;
-    font-weight: 400;
     font-size: 150%;
     float: left;
-    color:#5d5c5c;
     margin-left: 1%;
 }
 
@@ -75,12 +78,9 @@ body{
 }
 
 .text-about h1{
-    font-family: lora, serif;
-    width: 400;
     font-size: 300%;
     letter-spacing: 3px;
     margin-right: 19px; 
-    color: grey;
 }
 
 .text-about p{
