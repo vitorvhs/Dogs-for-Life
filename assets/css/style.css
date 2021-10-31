@@ -19,6 +19,7 @@ h1,h2,h3{
     color:#5d5c5c;
 }
 
+
 /* logo and nav-bar */
 
 #logo{
@@ -162,4 +163,30 @@ form input{
 
 .social-media i:hover{
     background-color: ivory;
+}
+
+/* media queries */
+
+/* for Desktop screen sizes from 992px wide and down */
+@media screen and (max-width: 992px){
+
+    #navigation{
+        clear: left;
+        float: left;
+        text-align: left;
+        display: block;
+    }
+
+    #about-sec{
+        height: 700px;
+        top: 100px;
+        position: absolute;
+        width: 100%;
+    }
+    
+}
+
+/* for tablet screen sizes from 768px wide and down */
+@media screen and (max-width: 768px){
+    
 }
