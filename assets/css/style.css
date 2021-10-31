@@ -134,3 +134,32 @@ form input{
 #SubmitButtom:hover{
     background-color:white;
 }
+
+
+/* footer */
+
+#social-sec{
+    position: absolute;
+    top: 1220px;
+    height: 200px;
+    background-color: cadetblue;
+    width: 100%;
+}
+
+.social-media{
+    text-align: center;
+}
+
+.social-media > li{
+    display: inline;
+}
+
+.social-media i{
+    font-size: 200%;
+    margin: 5%;
+    color: black;
+}
+
+.social-media i:hover{
+    background-color: ivory;
+}
