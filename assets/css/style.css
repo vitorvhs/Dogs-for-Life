@@ -173,10 +173,12 @@ form input{
         clear: left;
         float: left;
         display: block;
+        margin-left: 10px;
     }
 
     #about-sec{
-        position: relative;
+        top: 110px;
+        position: absolute;
         width: 100%;
         clear: both;
     }
@@ -199,7 +201,8 @@ form input{
     }
 
     #contact-sec{
-        position: relative;
+        top: 880px;
+        position: absolute;
         width: 100%;
         clear: both;
     }
@@ -217,7 +220,8 @@ form input{
     }
 
     #social-sec{
-        position: relative;
+        position: absolute;
+        top: 1800px;
         width: 100%;
         clear: both;
     }
