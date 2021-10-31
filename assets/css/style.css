@@ -103,3 +103,8 @@ body{
     text-align: center;
     float: right;
 }
+
+.form-contact{
+    width: 50%;
+    float: left;
+}
