@@ -166,7 +166,7 @@ form input{
 
 /* media queries */
 
-/* for Desktop screen sizes from 992px wide and down */
+/* for screen sizes from 992px wide and down */
 @media screen and (max-width: 992px){
 
     #navigation{
@@ -185,7 +185,7 @@ form input{
     
 }
 
-/* for tablet screen sizes from 768px wide and down */
+/* for screen sizes from 768px wide and down */
 @media screen and (max-width: 768px){
     .img-about img{
         position: relative;
@@ -194,6 +194,8 @@ form input{
     }
 
     .text-about{
+        margin-top: 10px;
+        font-size: 70%;
         text-align: center;
         position: relative;
         width: 100%;
@@ -227,3 +229,6 @@ form input{
     }
 
 }
+
+
+
