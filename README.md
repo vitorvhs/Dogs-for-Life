@@ -15,5 +15,5 @@ The users can get more information about the place, submmiting few informations.
   - Featured on all the sections, the full responsive navigation bar includes links to the Logo, About Us, Contact Us and Social Media that allow the easy navigation in the page.
   - This section will allow the user to easily navigate from section to section across all devices. 
 
-![Nav Bar]()
+![Nav Bar](https://github.com/vitorvhs/Dogs-for-Life/blob/a1ed850a91cea539435c1b9f9c408f1d927b1771/assets/images/nav-bar.png)
 
