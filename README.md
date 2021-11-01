@@ -38,4 +38,4 @@ The users can get more information about the place, submmiting few informations.
   - There are  Three social media links that user click and it open the page in a new tab.
   - The three icons are very viseble for the user and when are hover they turn another color.
 
-![Social media]()
+![Social media](https://github.com/vitorvhs/Dogs-for-Life/blob/04655b2cf3d2118d8813dd6019768ee1686f3854/assets/images/social-media-section.png)
