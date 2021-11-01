@@ -33,3 +33,9 @@ The users can get more information about the place, submmiting few informations.
   ![Contact us](https://github.com/vitorvhs/Dogs-for-Life/blob/b13bdcb909ad49ff62dab7828f0df1b217a9c7bd/assets/images/contactus-section.png)
 
 
+- __Social Media Section__
+
+  - There are  Three social media links that user click and it open the page in a new tab.
+  - The three icons are very viseble for the user and when are hover they turn another color.
+
+![Social media]()
