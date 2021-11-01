@@ -17,3 +17,10 @@ The users can get more information about the place, submmiting few informations.
 
 ![Nav Bar](https://github.com/vitorvhs/Dogs-for-Life/blob/a1ed850a91cea539435c1b9f9c408f1d927b1771/assets/images/nav-bar.png)
 
+
+- __About Us Section__
+
+  - There is a picture of one of the Rescue dog for adoption.
+  - There is a short explanation about the mission and the the staff and procedure. 
+
+![About us]()
