@@ -30,6 +30,6 @@ The users can get more information about the place, submmiting few informations.
   - There is another picture of one of the Rescue dog for adoption.
   - There is a form where the user can put name, email, date of birth and email. The user submit the the data to get more information about dogs.
 
-  ![Contact us]()
+  ![Contact us](https://github.com/vitorvhs/Dogs-for-Life/blob/b13bdcb909ad49ff62dab7828f0df1b217a9c7bd/assets/images/contactus-section.png)
 
 
