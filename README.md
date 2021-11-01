@@ -68,3 +68,24 @@ The users can get more information about the place, submmiting few informations.
   - I comfirmed that the color and fonts are easy to read and acessible by running lighthouse in devtolls.
 
   ![lighthouse](https://github.com/vitorvhs/Dogs-for-Life/blob/aafdfd021caef6dc06126c0b081fcffcf1983192/assets/images/lighthouse-screen.png)
+
+
+  # Unfixed bugs
+
+  No unfixed bugs
+
+  # Deployment
+
+- __Accessibility__
+
+  - The site was deployd to github pages.
+
+  # Credits
+
+  ## Content
+
+  - I took the nav bar reference from Love Runnug project.
+
+  ## Media
+
+  - The images were taken from pexels.
