@@ -39,3 +39,32 @@ The users can get more information about the place, submmiting few informations.
   - The three icons are very viseble for the user and when are hover they turn another color.
 
 ![Social media](https://github.com/vitorvhs/Dogs-for-Life/blob/04655b2cf3d2118d8813dd6019768ee1686f3854/assets/images/social-media-section.png)
+
+
+# Testing
+
+- I tested that tis page works in differents browsers: Chrome, Firefox and Safari.
+- I comfirmed that website is responsive, works good and functions on all standart screen sizes using the devtools device toolbar.
+- I have comfirmed that the form works and it require to fill all the input fields.
+
+
+# Bugs
+
+- I had no bugs.
+
+
+# Validator Testing
+
+- __HTML__
+
+  - No errors were returned when passing through the official W3C validator.
+  
+ - __CSS__
+
+  - No errors were returnedwhen passin through the oficial (jigsaw) validator.
+
+ - __Accessibility__
+
+  - I comfirmed that the color and fonts are easy to read and acessible by running lighthouse in devtolls.
+
+  ![lighthouse]()
