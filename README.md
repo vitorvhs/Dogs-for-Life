@@ -23,4 +23,4 @@ The users can get more information about the place, submmiting few informations.
   - There is a picture of one of the Rescue dog for adoption.
   - There is a short explanation about the mission and the the staff and procedure. 
 
-![About us]()
+![About us](https://github.com/vitorvhs/Dogs-for-Life/blob/f73293ca416db40ecc26a13fafdf233ffc1a9637/assets/images/about-us-screen.png)
