@@ -67,4 +67,4 @@ The users can get more information about the place, submmiting few informations.
 
   - I comfirmed that the color and fonts are easy to read and acessible by running lighthouse in devtolls.
 
-  ![lighthouse]()
+  ![lighthouse](https://github.com/vitorvhs/Dogs-for-Life/blob/aafdfd021caef6dc06126c0b081fcffcf1983192/assets/images/lighthouse-screen.png)
